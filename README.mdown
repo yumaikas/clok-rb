@@ -1,0 +1,12 @@
+# Clok
+
+Software for tracking time spent on various projects and the like.
+
+
+## Installation
+
+```
+gem install
+```
+
+Then, create a file called `clok.rb` that does an absolute require of clok.rb somewhere in your path.
